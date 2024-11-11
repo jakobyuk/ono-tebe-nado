@@ -154,8 +154,8 @@ body {
 }
 
 .lots__card-list-item {
-  list-style: none;
   min-height: 563px;
+  list-style: none;
 }
 
 .card-link {
